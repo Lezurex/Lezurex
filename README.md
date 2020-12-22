@@ -4,7 +4,7 @@ I'm a software engineer apprentice working in Zurich.
 
 - 🏙 I'm living near Zurich, Switzerland
 - 🔭 I’m currently working on a [Remote-Monitoring Website](https://github.com/VoxCrafterLP/Remote-Monitoring)
-- 💻 My favourite languages are: Java, PHP and JavaScript
+- 💻 My favourite languages are: Java, PHP, HTML, CSS and JavaScript
 - 🌱 I’m currently learning C and other various languages
 
 <!--

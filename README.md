@@ -1,4 +1,4 @@
-### Hi there, my Name is Lezurex 👋
+### Hi there, my Name is Lenny aka Lezurex 👋
 
 I'm a software engineer apprentice working in Zurich.
 

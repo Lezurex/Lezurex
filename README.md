@@ -5,7 +5,7 @@ I'm a software engineer apprentice working in Zurich.
 - 🏙 I'm living near Zurich, Switzerland
 - 🔭 I’m currently working on a [LabyMod-Addon](https://github.com/Lezurex/LabyCookies) and some other little projects
 - 💻 My favourite languages are: Java, PHP, HTML, CSS and JavaScript
-- 🌱 I’m currently learning C and other various languages
+- 🌱 I’m currently learning PHP and JavaScript and looking forward to learn Vue.js
 
 <!--
 **Lezurex/Lezurex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

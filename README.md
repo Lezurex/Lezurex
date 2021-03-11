@@ -7,5 +7,5 @@ I'm a software engineer apprentice working in Zurich.
 - 💻 My favourite languages are: Java, PHP, HTML, CSS and JavaScript
 - 🌱 I’m currently learning Vue.js
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lezurex)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lezurex)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lezurex&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lezurex&layout=compact&count_private=true&hide=VBA,Dockerfile&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)

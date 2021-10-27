@@ -3,7 +3,7 @@
 </h3>
 
 <h2 align="center">
-  I'm a Software Development Apprentice form Zurich 🏙
+  I'm a Software Development Apprentice from Zurich 🏙
 </h2>
 
 I love to code and try out new amazing stuff. I am not particularly an expert at a specific language or technology (yet).

@@ -9,8 +9,8 @@
 I love to code and try out new amazing stuff. I am not particularly an expert at a specific language or technology (yet).
 
 ## 🔭 I'm currently working on
-- 🏫 Class Tasks Webapp
-- 💻 Other various projects
+- [🏫 Class Tasks Webapp](https://github.com/Lezurex/openclass)
+- [💻 Other various projects](https://github.com/Lezurex/brainfuck)
 
 ## 🌱 I'm currently learning
 

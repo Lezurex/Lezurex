@@ -70,8 +70,11 @@ I love to code and try out new amazing stuff. I am not particularly an expert at
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
 
-## 📈 GitHub Stats 
+## 📈 Stats
 
+<p align="center">
+<img src="https://wakatime.com/badge/user/6b3a8310-f065-46d9-a65b-35913b6b2ec8.svg">
+</p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Lezurex&count_private=true&hide=stars&theme=onedark">
 <br/>

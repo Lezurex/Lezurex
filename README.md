@@ -106,7 +106,7 @@ D+3PJL39ulGq
 
 ## 🌱 I'm currently learning
 
-- ⚛ React
+- ⚛ React & Next.js
 
 ## 💼 Technical Skills
 

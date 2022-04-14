@@ -101,12 +101,12 @@ D+3PJL39ulGq
 </details>
 
 ## 🔭 I'm currently working on
-- [🏫 Class Tasks Webapp](https://github.com/Lezurex/openclass)
-- [💻 Other various projects](https://github.com/Lezurex/brainfuck)
+- [👨‍💻 Personal Portfolio Page](https://github.com/Lezurex/brainfuck)
+- [🏫 Class Tasks Webapp](https://github.com/Lezurex/portfolio)
 
 ## 🌱 I'm currently learning
 
-- ⚛ React & Next.js
+- ⚛ Next.js & Node backend stuff in  general
 
 ## 💼 Technical Skills
 

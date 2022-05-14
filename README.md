@@ -161,6 +161,7 @@ YwOXji1jdddqP1vZ95hho8R/eGls9bCng6WSP+TbE6a03bKS21rQ535R8g9m
 ## 🌱 I'm currently learning
 
 - ⚛ Next.js & Node backend stuff in  general
+- 🏷️ TypeScript
 
 ## 💼 Technical Skills
 

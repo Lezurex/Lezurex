@@ -228,3 +228,11 @@ YwOXji1jdddqP1vZ95hho8R/eGls9bCng6WSP+TbE6a03bKS21rQ535R8g9m
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lezurex&layout=compact&count_private=true&hide=VBA,Dockerfile&langs_count=8&theme=onedark">
 </p>
+
+## ✉️ Contact
+
+Matrix: @lezurex:matrix.org
+
+Mastodon: @lezurex@mastodon.social 
+
+Discord: Lezurex#4269

@@ -9,7 +9,7 @@
 I love to code and try out new amazing stuff. I am not particularly an expert at a specific language or technology (yet).
 
 <details>
-  <summary>GPG public key (click to expand)</summary>
+  <summary>OpenPGP public key (click to expand)</summary>
   
   ```txt
 -----BEGIN PGP PUBLIC KEY BLOCK-----

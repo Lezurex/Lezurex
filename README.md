@@ -231,8 +231,8 @@ YwOXji1jdddqP1vZ95hho8R/eGls9bCng6WSP+TbE6a03bKS21rQ535R8g9m
 
 ## ✉️ Contact
 
-Matrix: @lezurex:matrix.org
-
-Mastodon: @lezurex@mastodon.social 
-
-Discord: Lezurex#4269
+<a href="mailto:lenny@familie-angst.ch"><img src="https://shields.io/badge/E--Mail-lenny%40familie--angst.ch-red?logo=gmail&style=flat" /><a/>
+<a href="matrix:@lezurex:matrix.org"><img src="https://shields.io/badge/Matrix-%40lezurex:matrix.org-lightgrey?logo=matrix&style=flat" /><a/>
+<a href="https://mastodon.social/@lezurex"><img src="https://shields.io/badge/Mastodon-%40lezurex%40mastodon.social-6364FF?logo=mastodon&style=flat&logoColor=6364FF" /><a/>
+<a href=""><img src="https://shields.io/badge/Discord-Lezurex%233865-5662F6?logo=discord&style=flat" /><a/>
+<a href="https://threema.id/5X5W3H4B"><img src="https://shields.io/badge/Threema-5X5W3H4B-4EFB7D?logo=threema&style=flat" /><a/>

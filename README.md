@@ -155,8 +155,8 @@ YwOXji1jdddqP1vZ95hho8R/eGls9bCng6WSP+TbE6a03bKS21rQ535R8g9m
 </details>
 
 ## 🔭 I'm currently working on
+- [🏫 Oh My Class](https://github.com/Oh-my-class/)
 - [👨‍💻 Personal Portfolio Page](https://github.com/Lezurex/portfolio)
-- [🏫 Class Tasks Webapp](https://github.com/Lezurex/openclass)
 
 ## 🌱 I'm currently learning
 

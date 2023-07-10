@@ -160,8 +160,7 @@ YwOXji1jdddqP1vZ95hho8R/eGls9bCng6WSP+TbE6a03bKS21rQ535R8g9m
 
 ## 🌱 I'm currently learning
 
-- ⚛ Next.js
-- C# and .NET
+- Go
 
 ## 💼 Technical Skills
 
